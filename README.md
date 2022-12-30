@@ -3,7 +3,6 @@
 ```
 npm start 
 
-
-## Install
+### Install
 ```
 npm install for install package
