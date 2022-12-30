@@ -3,6 +3,7 @@
 ```
 npm start 
 
-*install
-```
+<hr/>
+
+###
 npm install for install package
