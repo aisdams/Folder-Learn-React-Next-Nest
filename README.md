@@ -2,8 +2,4 @@
 ## Getting Started
 ```
 npm start 
-
-<hr/>
-
-###
 npm install for install package
